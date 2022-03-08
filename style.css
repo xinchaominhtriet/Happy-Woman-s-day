@@ -12,11 +12,11 @@ html {
 }
 
 body {
-  background: #fcfcfc;
+  background: #f5e9dd;
 }
 
 .navbar {
-  background: #fff;
+  background-color: rgb(139, 220, 139);
   height: 60px;
   position: sticky;
   top: 0;
